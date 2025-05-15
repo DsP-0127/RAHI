@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="160dp"
+    android:viewportWidth="240"
+    android:viewportHeight="160">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#42A5F5"
+        android:pathData="M0,0h240v160h-240z" />
+    
+    <!-- Sunset gradient -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M0,120h240v40h-240z" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M0,140h240v20h-240z" />
+
+    <!-- Empire State Building -->
+    <path
+        android:fillColor="#78909C"
+        android:pathData="M120,160L140,160L140,80L120,80z" />
+    <path
+        android:fillColor="#607D8B"
+        android:pathData="M125,80L135,80L135,60L125,60z" />
+    <path
+        android:fillColor="#455A64"
+        android:pathData="M128,60L132,60L132,50L128,50z" />
+    <path
+        android:fillColor="#263238"
+        android:pathData="M129,50L131,50L131,40L129,40z" />
+    
+    <!-- Statue of Liberty -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M60,160L70,160L70,120L60,120z" />
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M55,120L75,120L65,110z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M62,110L68,110L68,100L62,100z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M65,100m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M65,95L65,85L70,80L60,80L65,85z" />
+    
+    <!-- Other skyscrapers -->
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M20,160L40,160L40,110L20,110z" />
+    <path
+        android:fillColor="#78909C"
+        android:pathData="M45,160L60,160L60,120L45,120z" />
+    <path
+        android:fillColor="#455A64"
+        android:pathData="M80,160L95,160L95,100L80,100z" />
+    <path
+        android:fillColor="#546E7A"
+        android:pathData="M100,160L115,160L115,90L100,90z" />
+    <path
+        android:fillColor="#607D8B"
+        android:pathData="M145,160L155,160L155,115L145,115z" />
+    <path
+        android:fillColor="#455A64"
+        android:pathData="M160,160L175,160L175,105L160,105z" />
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M180,160L200,160L200,95L180,95z" />
+    <path
+        android:fillColor="#263238"
+        android:pathData="M205,160L230,160L230,85L205,85z" />
+    
+    <!-- Windows -->
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M25,120h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M30,120h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M25,130h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M85,110h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M125,100h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M130,100h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M210,100h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M220,100h5v5h-5z" />
+</vector> 

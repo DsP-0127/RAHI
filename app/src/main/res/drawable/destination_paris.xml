@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="160dp"
+    android:viewportWidth="240"
+    android:viewportHeight="160">
+    
+    <!-- Background -->
+    <path
+        android:fillColor="#90CAF9"
+        android:pathData="M0,0h240v160h-240z" />
+    
+    <!-- Background gradients -->
+    <path
+        android:fillColor="#64B5F6"
+        android:pathData="M0,120h240v40h-240z" />
+    
+    <!-- Eiffel tower base -->
+    <path
+        android:fillColor="#455A64"
+        android:pathData="M110,160l20,0l5,-95l-30,0z" />
+    
+    <!-- Eiffel tower details -->
+    <path
+        android:fillColor="#263238"
+        android:pathData="M90,130l60,0l-5,10l-50,0z" />
+    <path
+        android:fillColor="#263238"
+        android:pathData="M100,100l40,0l-4,10l-32,0z" />
+    <path
+        android:fillColor="#263238"
+        android:pathData="M105,70l30,0l-3,10l-24,0z" />
+    <path
+        android:fillColor="#263238"
+        android:pathData="M110,40l20,0l-2,10l-16,0z" />
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M115,30m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+    
+    <!-- Small buildings -->
+    <path
+        android:fillColor="#546E7A"
+        android:pathData="M40,120h30v40h-30z" />
+    <path
+        android:fillColor="#78909C"
+        android:pathData="M180,110h40v50h-40z" />
+    <path
+        android:fillColor="#607D8B"
+        android:pathData="M200,130h10v30h-10z" />
+    
+    <!-- Windows -->
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M45,130h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M55,130h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M45,140h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M55,140h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M185,120h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M195,120h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M185,130h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M195,130h5v5h-5z" />
+    
+    <!-- Sun -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M40,40m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0" />
+</vector> 

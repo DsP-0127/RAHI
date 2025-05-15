@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="180dp"
+    android:viewportWidth="240"
+    android:viewportHeight="180">
+    
+    <!-- Sky background -->
+    <path
+        android:fillColor="#9BE3F7"
+        android:pathData="M0,0h240v110h-240z"/>
+    
+    <!-- Mountains and Kanchenjunga -->
+    <path
+        android:fillColor="#78909C"
+        android:pathData="M0,70L30,50L50,60L80,35L105,55L120,30L150,55L180,25L210,50L240,30L240,110L0,110z"/>
+    
+    <!-- Snow caps -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,35L85,37L90,33L95,39L100,42L105,55L110,45L115,38L120,30L125,35L130,40L135,35L140,45L145,50L150,55L160,40L170,35L180,25L185,30L190,35L195,32L200,40L210,50L215,43L225,47L240,30L240,15L210,40L180,15L150,45L120,20L105,45L80,25L50,50L30,40L15,55L0,50L0,70L30,50z"/>
+    
+    <!-- Green hills with tea gardens -->
+    <path
+        android:fillColor="#43A047"
+        android:pathData="M0,110L0,180L240,180L240,110Q120,150 0,110"/>
+    
+    <!-- Tea garden rows -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M20,130L240,130"
+        android:strokeWidth="2"
+        android:strokeColor="#1B5E20"/>
+    
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M0,145L220,145"
+        android:strokeWidth="2"
+        android:strokeColor="#1B5E20"/>
+    
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M20,160L240,160"
+        android:strokeWidth="2"
+        android:strokeColor="#1B5E20"/>
+    
+    <!-- Toy Train -->
+    <path
+        android:fillColor="#455A64"
+        android:pathData="M40,120L80,120L80,130L40,130z"/>
+    
+    <path
+        android:fillColor="#FF6F00"
+        android:pathData="M50,130L55,130L55,135L50,135z"/>
+    
+    <path
+        android:fillColor="#FF6F00"
+        android:pathData="M65,130L70,130L70,135L65,135z"/>
+    
+    <path
+        android:fillColor="#78909C"
+        android:pathData="M80,122L90,122L90,128L80,128z"/>
+    
+    <!-- Railway track -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M30,135L100,135"
+        android:strokeWidth="3"
+        android:strokeColor="#5D4037"/>
+    
+    <!-- Tiger Hill building -->
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M170,90L200,90L200,120L170,120z"/>
+    
+    <path
+        android:fillColor="#BF360C"
+        android:pathData="M165,90L205,90L185,75z"/>
+</vector> 

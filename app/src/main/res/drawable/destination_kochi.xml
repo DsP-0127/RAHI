@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="180dp"
+    android:viewportWidth="240"
+    android:viewportHeight="180">
+    
+    <!-- Sky background -->
+    <path
+        android:fillColor="#B3E5FC"
+        android:pathData="M0,0h240v110h-240z"/>
+    
+    <!-- Backwaters -->
+    <path
+        android:fillColor="#0288D1"
+        android:pathData="M0,110L240,110L240,180L0,180z"/>
+    
+    <!-- Palm trees on shore -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M30,110L35,110L32,85L27,110z"/>
+        
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M20,85Q30,70 40,85L25,85Q20,75 15,85L30,85Q35,70 45,85z"/>
+        
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M200,110L205,110L202,85L197,110z"/>
+        
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M190,85Q200,70 210,85L195,85Q190,75 185,85L200,85Q205,70 215,85z"/>
+    
+    <!-- Chinese fishing nets -->
+    <path
+        android:fillColor="#795548"
+        android:strokeWidth="2"
+        android:pathData="M60,90L60,110"
+        android:strokeColor="#795548"/>
+        
+    <path
+        android:fillColor="#795548"
+        android:strokeWidth="2"
+        android:pathData="M100,90L100,110"
+        android:strokeColor="#795548"/>
+        
+    <path
+        android:fillColor="#795548"
+        android:strokeWidth="2"
+        android:pathData="M60,90L100,90"
+        android:strokeColor="#795548"/>
+        
+    <path
+        android:fillColor="#795548"
+        android:strokeWidth="2"
+        android:pathData="M60,90L80,70"
+        android:strokeColor="#795548"/>
+        
+    <path
+        android:fillColor="#795548"
+        android:strokeWidth="2"
+        android:pathData="M100,90L80,70"
+        android:strokeColor="#795548"/>
+        
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M60,90L100,90L100,100L60,100z"
+        android:fillAlpha="0.6"/>
+    
+    <!-- Traditional houseboat -->
+    <path
+        android:fillColor="#A1887F"
+        android:pathData="M140,120L200,120L200,140L140,140z"/>
+        
+    <path
+        android:fillColor="#6D4C41"
+        android:pathData="M150,110L190,110L180,120L160,120z"/>
+        
+    <path
+        android:fillColor="#6D4C41"
+        android:pathData="M155,110L165,100L175,100L185,110z"/>
+        
+    <!-- Boat windows -->
+    <path
+        android:fillColor="#90CAF9"
+        android:pathData="M155,125L165,125L165,135L155,135z"/>
+        
+    <path
+        android:fillColor="#90CAF9"
+        android:pathData="M175,125L185,125L185,135L175,135z"/>
+    
+    <!-- Fort Kochi Church -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,60L40,60L40,110L10,110z"/>
+        
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M5,60L45,60L25,40z"/>
+        
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M20,80L30,80L30,100L20,100z"/>
+        
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M19,60L21,60L21,70L19,70z"/>
+        
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M29,60L31,60L31,70L29,70z"/>
+    
+    <!-- Ripples in water -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M120,150Q130,155 140,150"
+        android:strokeAlpha="0.3"
+        android:strokeColor="#FFFFFF"/>
+        
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M210,130Q220,135 230,130"
+        android:strokeAlpha="0.3"
+        android:strokeColor="#FFFFFF"/>
+    
+    <!-- Coconuts on trees -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M30,75a3,3 0 1,0 6,0a3,3 0 1,0 -6,0"/>
+        
+    <path
+        android:fillColor="#795548"
+        android:pathData="M35,80a3,3 0 1,0 6,0a3,3 0 1,0 -6,0"/>
+        
+    <path
+        android:fillColor="#795548"
+        android:pathData="M200,75a3,3 0 1,0 6,0a3,3 0 1,0 -6,0"/>
+        
+    <path
+        android:fillColor="#795548"
+        android:pathData="M205,80a3,3 0 1,0 6,0a3,3 0 1,0 -6,0"/>
+</vector> 

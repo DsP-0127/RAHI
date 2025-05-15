@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="180dp"
+    android:viewportWidth="240"
+    android:viewportHeight="180">
+    
+    <!-- Sky background -->
+    <path
+        android:fillColor="#E1F5FE"
+        android:pathData="M0,0h240v110h-240z"/>
+    
+    <!-- River Yamuna -->
+    <path
+        android:fillColor="#81D4FA"
+        android:pathData="M0,140L240,140L240,180L0,180z"/>
+    
+    <!-- Taj Mahal -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,70L160,70L140,110L100,110z"/>
+    
+    <!-- Main dome -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M105,70a15,25 0 1,0 30,0a15,25 0 1,0 -30,0"/>
+    
+    <!-- Dome finial -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M117,48L123,48L120,40z"/>
+    
+    <!-- Side domes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M85,75a8,15 0 1,0 16,0a8,15 0 1,0 -16,0"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M139,75a8,15 0 1,0 16,0a8,15 0 1,0 -16,0"/>
+    
+    <!-- Minarets -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,80L85,80L85,110L70,110z"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M155,80L170,80L170,110L155,110z"/>
+    
+    <!-- Minaret tops -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,75a7,5 0 1,0 15,0a7,5 0 1,0 -15,0"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M155,75a7,5 0 1,0 15,0a7,5 0 1,0 -15,0"/>
+    
+    <!-- Front gate -->
+    <path
+        android:fillColor="#FFE0B2"
+        android:pathData="M100,110L140,110L140,120L100,120z"/>
+    
+    <!-- Central arch -->
+    <path
+        android:fillColor="#B39DDB"
+        android:pathData="M115,110L125,110L125,118L115,118z"/>
+    
+    <!-- Garden -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M0,110L240,110L240,140L0,140z"/>
+    
+    <!-- Garden pathways -->
+    <path
+        android:fillColor="#BCAAA4"
+        android:pathData="M0,125L240,125L240,130L0,130z"/>
+    
+    <path
+        android:fillColor="#BCAAA4"
+        android:pathData="M115,110L125,110L125,140L115,140z"/>
+    
+    <!-- Water channel -->
+    <path
+        android:fillColor="#81D4FA"
+        android:pathData="M117,120L123,125L123,140L117,140z"/>
+    
+    <!-- Sun -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M50,40a15,15 0 1,0 30,0a15,15 0 1,0 -30,0"/>
+    
+    <!-- Reflection in water -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M110,150L130,150L125,160L115,160z"
+        android:fillAlpha="0.5"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M115,150a5,10 0 1,0 10,0a5,10 0 1,0 -10,0"
+        android:fillAlpha="0.5"/>
+</vector> 

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="180dp"
+    android:viewportWidth="240"
+    android:viewportHeight="180">
+    
+    <!-- Sky background -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M0,0h240v110h-240z"/>
+    
+    <!-- Holy sarovar (water) -->
+    <path
+        android:fillColor="#01579B"
+        android:pathData="M0,110L240,110L240,180L0,180z"/>
+    
+    <!-- Golden Temple -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M90,60L150,60L150,100L90,100z"/>
+    
+    <!-- Temple dome -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M100,60a25,25 0 1,0 40,0a25,25 0 1,0 -40,0"/>
+    
+    <!-- Dome top -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M117,35L123,35L120,25z"/>
+    
+    <!-- Temple entrance -->
+    <path
+        android:fillColor="#3E2723"
+        android:pathData="M115,80L125,80L125,100L115,100z"/>
+    
+    <!-- Temple reflection in water -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M90,110L150,110L150,150L90,150z"
+        android:fillAlpha="0.4"/>
+    
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M100,110a25,25 0 1,0 40,0a25,25 0 1,0 -40,0"
+        android:fillAlpha="0.4"/>
+    
+    <!-- Causeway -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M50,95L90,95L90,105L50,105z"/>
+    
+    <!-- Entrance gateway (Darshani Deori) -->
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M40,70L60,70L60,105L40,105z"/>
+    
+    <path
+        android:fillColor="#3E2723"
+        android:pathData="M47,85L53,85L53,105L47,105z"/>
+    
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M35,70L65,70L52.5,55z"/>
+    
+    <!-- People silhouettes -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M55,98L58,98L58,103L55,103z"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:pathData="M65,98L67,98L67,103L65,103z"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:pathData="M75,98L78,98L78,103L75,103z"/>
+    
+    <!-- Water ripples -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M20,120Q30,125 40,120"
+        android:strokeAlpha="0.2"
+        android:strokeColor="#FFFFFF"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M180,140Q190,145 200,140"
+        android:strokeAlpha="0.2"
+        android:strokeColor="#FFFFFF"/>
+    
+    <!-- Sun -->
+    <path
+        android:fillColor="#FFCC80"
+        android:pathData="M185,30a15,15 0 1,0 30,0a15,15 0 1,0 -30,0"/>
+    
+    <!-- Sun rays -->
+    <path
+        android:fillColor="#FFCC80"
+        android:strokeWidth="2"
+        android:pathData="M200,5L200,15"
+        android:strokeColor="#FFCC80"/>
+    
+    <path
+        android:fillColor="#FFCC80"
+        android:strokeWidth="2"
+        android:pathData="M200,45L200,55"
+        android:strokeColor="#FFCC80"/>
+    
+    <path
+        android:fillColor="#FFCC80"
+        android:strokeWidth="2"
+        android:pathData="M175,30L185,30"
+        android:strokeColor="#FFCC80"/>
+    
+    <path
+        android:fillColor="#FFCC80"
+        android:strokeWidth="2"
+        android:pathData="M215,30L225,30"
+        android:strokeColor="#FFCC80"/>
+</vector> 

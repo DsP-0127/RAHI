@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="180dp"
+    android:viewportWidth="240"
+    android:viewportHeight="180">
+    
+    <!-- Sky background -->
+    <path
+        android:fillColor="#4FC3F7"
+        android:pathData="M0,0h240v110h-240z"/>
+    
+    <!-- Sea -->
+    <path
+        android:fillColor="#0277BD"
+        android:pathData="M0,110L240,110L240,180L0,180z"/>
+    
+    <!-- Wave lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M0,120Q30,125 60,120Q90,115 120,120Q150,125 180,120Q210,115 240,120"
+        android:strokeAlpha="0.3"
+        android:strokeColor="#FFFFFF"/>
+        
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M0,140Q30,145 60,140Q90,135 120,140Q150,145 180,140Q210,135 240,140"
+        android:strokeAlpha="0.2"
+        android:strokeColor="#FFFFFF"/>
+        
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M0,160Q30,165 60,160Q90,155 120,160Q150,165 180,160Q210,155 240,160"
+        android:strokeAlpha="0.1"
+        android:strokeColor="#FFFFFF"/>
+    
+    <!-- Beach sand -->
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M0,110Q30,105 60,110Q90,115 120,110Q150,105 180,110Q210,115 240,110L240,130Q210,125 180,130Q150,135 120,130Q90,125 60,130Q30,135 0,130z"/>
+    
+    <!-- Palm trees -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M30,110L35,110L34,90L31,90z"/>
+        
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M25,90Q29,85 32,90L35,87Q39,85 38,90L40,85Q45,82 41,90L45,86Q50,86 43,92L32,92Q25,86 30,92L28,87Q23,85 25,90z"/>
+        
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M180,110L185,110L184,90L181,90z"/>
+        
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M175,90Q179,85 182,90L185,87Q189,85 188,90L190,85Q195,82 191,90L195,86Q200,86 193,92L182,92Q175,86 180,92L178,87Q173,85 175,90z"/>
+    
+    <!-- Beach umbrella -->
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M100,110L120,110L110,90z"/>
+        
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M104,110L116,110L110,95z"/>
+        
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M106,110L114,110L110,98z"/>
+        
+    <path
+        android:fillColor="#795548"
+        android:pathData="M109,110L111,110L110,80z"/>
+    
+    <!-- Beach chairs -->
+    <path
+        android:fillColor="#03A9F4"
+        android:pathData="M90,110L105,108L102,115L87,117z"/>
+        
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M120,108L135,110L137,117L122,115z"/>
+    
+    <!-- Church (representing Basilica of Bom Jesus) -->
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M200,70L230,70L230,110L200,110z"/>
+        
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M195,70L235,70L215,50z"/>
+        
+    <path
+        android:fillColor="#795548"
+        android:pathData="M210,90L220,90L220,110L210,110z"/>
+        
+    <path
+        android:fillColor="#01579B"
+        android:pathData="M205,80L210,80L210,85L205,85z"/>
+        
+    <path
+        android:fillColor="#01579B"
+        android:pathData="M220,80L225,80L225,85L220,85z"/>
+</vector>

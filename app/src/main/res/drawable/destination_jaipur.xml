@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="180dp"
+    android:viewportWidth="240"
+    android:viewportHeight="180">
+    
+    <!-- Sky background -->
+    <path
+        android:fillColor="#FFE0B2"
+        android:pathData="M0,0h240v110h-240z"/>
+    
+    <!-- Desert hills -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M0,110L0,180L240,180L240,110Q180,90 120,110Q60,90 0,110"/>
+    
+    <!-- Amber Fort -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M20,60L120,60L120,110L20,110z"/>
+    
+    <!-- Fort towers -->
+    <path
+        android:fillColor="#BF360C"
+        android:pathData="M30,60L40,60L40,45L30,45z"/>
+    
+    <path
+        android:fillColor="#BF360C"
+        android:pathData="M60,60L70,60L70,45L60,45z"/>
+    
+    <path
+        android:fillColor="#BF360C"
+        android:pathData="M90,60L100,60L100,45L90,45z"/>
+    
+    <!-- Fort walls pattern -->
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M25,70L35,70L35,80L25,80z"/>
+    
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M45,70L55,70L55,80L45,80z"/>
+    
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M65,70L75,70L75,80L65,80z"/>
+    
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M85,70L95,70L95,80L85,80z"/>
+    
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M105,70L115,70L115,80L105,80z"/>
+    
+    <!-- Fort entrance -->
+    <path
+        android:fillColor="#3E2723"
+        android:pathData="M65,90L75,90L75,110L65,110z"/>
+    
+    <!-- Hawa Mahal -->
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M140,70L190,70L190,110L140,110z"/>
+    
+    <!-- Hawa Mahal windows -->
+    <path
+        android:fillColor="#880E4F"
+        android:pathData="M145,80L155,80L155,90L145,90z"/>
+    
+    <path
+        android:fillColor="#880E4F"
+        android:pathData="M162,80L172,80L172,90L162,90z"/>
+    
+    <path
+        android:fillColor="#880E4F"
+        android:pathData="M179,80L189,80L189,90L179,90z"/>
+    
+    <path
+        android:fillColor="#880E4F"
+        android:pathData="M145,95L155,95L155,105L145,105z"/>
+    
+    <path
+        android:fillColor="#880E4F"
+        android:pathData="M162,95L172,95L172,105L162,105z"/>
+    
+    <path
+        android:fillColor="#880E4F"
+        android:pathData="M179,95L189,95L189,105L179,105z"/>
+    
+    <!-- City wall -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M0,110L240,110L240,120L0,120z"/>
+    
+    <!-- Sun -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M200,40a20,20 0 1,0 40,0a20,20 0 1,0 -40,0"/>
+</vector> 

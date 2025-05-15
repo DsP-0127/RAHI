@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="160dp"
+    android:viewportWidth="240"
+    android:viewportHeight="160">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M0,0h240v160h-240z" />
+    
+    <!-- Cloudy sky -->
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M40,50a25,15 0,1,0 50,0a25,15 0,1,0 -50,0z" />
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M100,40a30,20 0,1,0 60,0a30,20 0,1,0 -60,0z" />
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M160,55a25,15 0,1,0 50,0a25,15 0,1,0 -50,0z" />
+
+    <!-- River Thames -->
+    <path
+        android:fillColor="#B3E5FC"
+        android:pathData="M0,130h240v30h-240z" />
+    
+    <!-- Big Ben -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M100,160L120,160L120,90L100,90z" />
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M105,90L115,90L115,70L105,70z" />
+    <path
+        android:fillColor="#795548"
+        android:pathData="M107,70L113,70L113,50L107,50z" />
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M106,100h3v3h-3z" />
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M111,100h3v3h-3z" />
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M106,110h3v3h-3z" />
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M111,110h3v3h-3z" />
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M106,120h3v3h-3z" />
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M111,120h3v3h-3z" />
+    
+    <!-- London Eye -->
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M170,160L180,160L180,120L170,120z" />
+    <path
+        android:fillColor="#607D8B"
+        android:pathData="M175,120m-30,0a30,30 0,1 1,60 0a30,30 0,1 1,-60 0" />
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M175,120m-25,0a25,25 0,1 1,50 0a25,25 0,1 1,-50 0" />
+    
+    <!-- Cabins on London Eye -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M175,95m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M193,103m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M200,120m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M192,137m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M175,145m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M158,137m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M150,120m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M158,103m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    
+    <!-- Tower Bridge -->
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M20,130L40,130L40,110L20,110z" />
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M60,130L80,130L80,110L60,110z" />
+    <path
+        android:fillColor="#78909C"
+        android:pathData="M20,110L80,110L80,100L20,100z" />
+    <path
+        android:fillColor="#78909C"
+        android:pathData="M30,100L70,100L70,90L30,90z" />
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M35,90L65,90L65,80L35,80z" />
+</vector> 

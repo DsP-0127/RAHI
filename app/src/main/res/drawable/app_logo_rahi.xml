@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M0,0h108v108h-108z" />
+        
+    <!-- Circular background -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M54,28C39.64,28 28,39.64 28,54C28,68.36 39.64,80 54,80C68.36,80 80,68.36 80,54C80,39.64 68.36,28 54,28Z" />
+        
+    <!-- Mountain Silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,66L40,48L48,58L62,38L80,66L28,66Z" />
+        
+    <!-- Sun -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,40m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+        
+    <!-- RAHI Text -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,82L38,74L44,74C45.1,74 46,74.9 46,76L46,76C46,77.1 45.1,78 44,78L38,78L38,82M46,82L46,74L50,74C51.66,74 53,75.34 53,77C53,78.66 51.66,80 50,80L46,80L46,82M38,71L40,67L42,71M59,82L56,74L53,82M64,82L64,74L70,74C71.1,74 72,74.9 72,76L72,76C72,77.1 71.1,78 70,78L64,78L64,82" />
+</vector> 

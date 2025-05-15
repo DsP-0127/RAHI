@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="180dp"
+    android:viewportWidth="240"
+    android:viewportHeight="180">
+    
+    <!-- Sky background -->
+    <path
+        android:fillColor="#B3E5FC"
+        android:pathData="M0,0h240v100h-240z"/>
+    
+    <!-- Mountains -->
+    <path
+        android:fillColor="#78909C"
+        android:pathData="M0,60L20,50L40,55L60,45L80,55L100,40L120,55L140,35L160,45L180,30L200,40L220,30L240,45L240,180L0,180L0,60z"/>
+    
+    <!-- Snow caps -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,40L105,42L110,38L115,43L120,55L130,45L140,35L145,40L150,35L155,40L160,45L170,38L180,30L190,35L200,40L210,35L220,30L225,35L230,32L240,45L240,25L220,20L200,30L180,20L160,35L140,25L120,45L100,30L80,45L60,35L40,45L20,40L0,50L0,60L20,50z"/>
+    
+    <!-- Buddhist monastery (Rumtek) -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M120,80L150,80L150,120L120,120z"/>
+    
+    <path
+        android:fillColor="#BF360C"
+        android:pathData="M115,80L155,80L135,60z"/>
+    
+    <!-- Monastery windows -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M125,90L130,90L130,95L125,95z"/>
+    
+    <path
+        android:fillColor="#795548"
+        android:pathData="M140,90L145,90L145,95L140,95z"/>
+    
+    <path
+        android:fillColor="#795548"
+        android:pathData="M130,105L140,105L140,115L130,115z"/>
+    
+    <!-- Prayer flags -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M90,70L95,70L95,75L90,75z"/>
+    
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M95,70L100,70L100,75L95,75z"/>
+    
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M100,70L105,70L105,75L100,75z"/>
+    
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M105,70L110,70L110,75L105,75z"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M110,70L115,70L115,75L110,75z"/>
+    
+    <path
+        android:strokeColor="#795548"
+        android:strokeWidth="1"
+        android:pathData="M90,70L115,70"/>
+    
+    <!-- Green hills -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M0,100L0,180L240,180L240,120Q120,150 0,100"/>
+    
+    <!-- Cable car -->
+    <path
+        android:fillColor="#607D8B"
+        android:pathData="M50,80L70,80L70,90L50,90z"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:strokeColor="#000000"
+        android:pathData="M60,80L60,60"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:strokeColor="#000000"
+        android:pathData="M40,60L80,60"/>
+</vector> 

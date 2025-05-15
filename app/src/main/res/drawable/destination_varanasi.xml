@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="180dp"
+    android:viewportWidth="240"
+    android:viewportHeight="180">
+    
+    <!-- Dawn sky background with gradient -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M0,0h240v110h-240z"/>
+    
+    <!-- Sun -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M120,60a20,20 0 1,0 40,0a20,20 0 1,0 -40,0"/>
+    
+    <!-- River Ganges -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M0,110L240,110L240,180L0,180z"/>
+    
+    <!-- Ghats (steps) -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M0,80L240,80L240,110L0,110z"/>
+    
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M0,85L240,85L240,90L0,90z"/>
+    
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M0,95L240,95L240,100L0,100z"/>
+    
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M0,105L240,105L240,110L0,110z"/>
+    
+    <!-- Temples and buildings on ghats -->
+    <!-- Temple 1 -->
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M20,40L40,40L40,80L20,80z"/>
+    
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M15,40L45,40L30,25z"/>
+    
+    <!-- Temple 2 -->
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M50,50L70,50L70,80L50,80z"/>
+    
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M45,50L75,50L60,35z"/>
+    
+    <!-- Temple 3 -->
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M80,45L100,45L100,80L80,80z"/>
+    
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M75,45L105,45L90,30z"/>
+    
+    <!-- Building 1 -->
+    <path
+        android:fillColor="#FFCDD2"
+        android:pathData="M120,55L150,55L150,80L120,80z"/>
+    
+    <!-- Building 2 -->
+    <path
+        android:fillColor="#B2DFDB"
+        android:pathData="M160,60L190,60L190,80L160,80z"/>
+    
+    <!-- Building 3 -->
+    <path
+        android:fillColor="#E1BEE7"
+        android:pathData="M200,50L230,50L230,80L200,80z"/>
+    
+    <!-- Boats on the river -->
+    <!-- Boat 1 -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M30,130L60,130L55,140L35,140z"/>
+    
+    <path
+        android:fillColor="#795548"
+        android:strokeWidth="2"
+        android:pathData="M45,130L45,115"
+        android:strokeColor="#795548"/>
+    
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M45,115L55,125L35,125z"/>
+    
+    <!-- Boat 2 -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M100,140L130,140L125,150L105,150z"/>
+    
+    <!-- Boat 3 -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M180,135L210,135L205,145L185,145z"/>
+    
+    <path
+        android:fillColor="#795548"
+        android:strokeWidth="2"
+        android:pathData="M195,135L195,120"
+        android:strokeColor="#795548"/>
+    
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M195,120L205,130L185,130z"/>
+    
+    <!-- People silhouettes at ghats -->
+    <path
+        android:fillColor="#263238"
+        android:pathData="M25,80L30,80L30,85L25,85z"/>
+    
+    <path
+        android:fillColor="#263238"
+        android:pathData="M55,80L60,80L60,85L55,85z"/>
+    
+    <path
+        android:fillColor="#263238"
+        android:pathData="M85,80L90,80L90,85L85,85z"/>
+    
+    <path
+        android:fillColor="#263238"
+        android:pathData="M125,80L130,80L130,85L125,85z"/>
+    
+    <path
+        android:fillColor="#263238"
+        android:pathData="M170,80L175,80L175,85L170,85z"/>
+    
+    <path
+        android:fillColor="#263238"
+        android:pathData="M210,80L215,80L215,85L210,85z"/>
+    
+    <!-- Reflection of sun in water -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M120,140L160,140L140,170z"
+        android:fillAlpha="0.5"/>
+</vector> 

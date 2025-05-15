@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="180dp"
+    android:viewportWidth="240"
+    android:viewportHeight="180">
+    
+    <!-- Sky background -->
+    <path
+        android:fillColor="#81D4FA"
+        android:pathData="M0,0h240v90h-240z"/>
+    
+    <!-- Brahmaputra River -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M0,90L240,90L240,130L0,130z"/>
+    
+    <!-- River ripples -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M40,100Q45,103 50,100"
+        android:strokeAlpha="0.3"
+        android:strokeColor="#FFFFFF"/>
+        
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M100,110Q105,113 110,110"
+        android:strokeAlpha="0.3"
+        android:strokeColor="#FFFFFF"/>
+        
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M170,105Q175,108 180,105"
+        android:strokeAlpha="0.3"
+        android:strokeColor="#FFFFFF"/>
+    
+    <!-- Boat -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M150,110L180,110L175,120L155,120z"/>
+    
+    <path
+        android:fillColor="#795548"
+        android:strokeWidth="2"
+        android:pathData="M165,110L165,95"
+        android:strokeColor="#795548"/>
+    
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M165,95L175,105L155,105z"/>
+    
+    <!-- Hills -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M0,70L30,50L60,65L80,45L100,60L130,40L160,60L200,45L240,65L240,90L0,90z"/>
+    
+    <!-- Kamakhya Temple -->
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M50,45L70,45L70,65L50,65z"/>
+    
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M45,45L75,45L60,30z"/>
+    
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M55,55L65,55L65,65L55,65z"/>
+    
+    <!-- Urban landscape -->
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M0,130L0,180L240,180L240,130z"/>
+    
+    <!-- Buildings -->
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M20,130L40,130L40,160L20,160z"/>
+    
+    <path
+        android:fillColor="#BBDEFB"
+        android:pathData="M60,130L80,130L80,170L60,170z"/>
+    
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M100,130L130,130L130,150L100,150z"/>
+    
+    <path
+        android:fillColor="#E1BEE7"
+        android:pathData="M150,130L170,130L170,165L150,165z"/>
+    
+    <path
+        android:fillColor="#C5CAE9"
+        android:pathData="M190,130L220,130L220,155L190,155z"/>
+    
+    <!-- Roads -->
+    <path
+        android:fillColor="#424242"
+        android:pathData="M0,170L240,170L240,180L0,180z"/>
+</vector> 

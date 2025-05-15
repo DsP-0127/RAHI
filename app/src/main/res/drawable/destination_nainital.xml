@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="180dp"
+    android:viewportWidth="240"
+    android:viewportHeight="180">
+    
+    <!-- Sky background -->
+    <path
+        android:fillColor="#A5D6F3"
+        android:pathData="M0,0h240v110h-240z"/>
+    
+    <!-- Mountains -->
+    <path
+        android:fillColor="#7F8C8D"
+        android:pathData="M0,45L40,25L60,40L90,20L120,45L150,25L200,45L240,30L240,110L0,110z"/>
+    
+    <!-- Naini Lake -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M30,70L210,70L200,150L40,150z"/>
+    
+    <!-- Lake Reflection -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,90L125,90L123,130L118,130z"
+        android:fillAlpha="0.3"/>
+    
+    <!-- Boats on the lake -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M60,100L80,100L75,105L65,105z"/>
+    
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M160,110L180,110L175,115L165,115z"/>
+    
+    <!-- Trees on the shore -->
+    <path
+        android:fillColor="#33691E"
+        android:pathData="M20,70L30,50L40,70z"/>
+    
+    <path
+        android:fillColor="#33691E"
+        android:pathData="M200,70L210,50L220,70z"/>
+    
+    <path
+        android:fillColor="#33691E"
+        android:pathData="M50,70L60,55L70,70z"/>
+    
+    <path
+        android:fillColor="#33691E"
+        android:pathData="M170,70L180,55L190,70z"/>
+    
+    <!-- Hills around lake -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M0,110L0,180L240,180L240,110Q120,170 0,110"/>
+    
+    <!-- Naina Devi Temple -->
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M200,60L210,60L210,70L200,70z"/>
+    
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M198,55L212,55L205,45z"/>
+</vector> 

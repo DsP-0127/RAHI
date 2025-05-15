@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="500"
+    android:viewportHeight="500">
+    
+    <!-- Circle border -->
+    <path
+        android:pathData="M250,20C377,20 480,123 480,250C480,377 377,480 250,480C123,480 20,377 20,250C20,123 123,20 250,20Z"
+        android:strokeWidth="2"
+        android:strokeColor="#333333"
+        android:fillColor="#00000000"/>
+        
+    <!-- Left dot -->
+    <path
+        android:pathData="M100,250m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0"
+        android:fillColor="#333333"/>
+        
+    <!-- Right dot -->
+    <path
+        android:pathData="M400,250m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0"
+        android:fillColor="#333333"/>
+        
+    <!-- Bottom text "DISCOVER THE THRILL OF THE UNKNOWN" -->
+    <path
+        android:pathData="M250,370A120,120 0,0 1,130 250A120,120 0,0 1,370 250A120,120 0,0 1,250 370Z"
+        android:fillColor="#00000000"/>
+    
+    <!-- Bottom text curved path -->
+    <path
+        android:pathData="M120,330C141,347 173,358 208,358C243,358 275,347 296,330"
+        android:strokeWidth="1"
+        android:strokeColor="#333333"
+        android:fillColor="#00000000"/>
+        
+    <!-- Mountain background -->
+    <path
+        android:pathData="M120,190L170,130L230,170L280,140L330,170L380,130L380,270L120,270Z"
+        android:fillColor="#FFBA36"/>
+        
+    <!-- Dark mountains -->
+    <path
+        android:pathData="M120,220L180,160L220,200L280,150L340,210L380,170L380,270L120,270Z"
+        android:fillColor="#333333"/>
+        
+    <!-- Water -->
+    <path
+        android:pathData="M120,270L380,270L380,320L120,320Z"
+        android:fillColor="#26C6DA"/>
+        
+    <!-- Trees -->
+    <path
+        android:pathData="M150,270L140,250L150,260L140,240L150,250L140,220L150,240L160,220L150,250L160,240L150,270Z"
+        android:fillColor="#333333"/>
+    <path
+        android:pathData="M170,270L160,255L170,265L160,245L170,255L160,225L170,245L180,225L170,255L180,245L170,270Z"
+        android:fillColor="#333333"/>
+        
+    <!-- Silhouette -->
+    <path
+        android:pathData="M250,270L230,240L240,220L250,230L260,220L270,240L250,270Z"
+        android:fillColor="#000000"/>
+        
+    <!-- RAHI text -->
+    <path
+        android:pathData="M180,120L190,120L195,100L200,120L210,120L210,160L200,160L200,130L195,150L190,130L190,160L180,160Z"
+        android:fillColor="#333333"/>
+    <path
+        android:pathData="M225,120L255,120L255,130L245,130L245,160L235,160L235,130L225,130Z"
+        android:fillColor="#333333"/>
+    <path
+        android:pathData="M270,120L280,120L285,100L290,120L300,120L300,160L290,160L290,130L285,150L280,130L280,160L270,160Z"
+        android:fillColor="#333333"/>
+    <path
+        android:pathData="M315,120L325,120L325,160L315,160Z"
+        android:fillColor="#333333"/>
+</vector> 

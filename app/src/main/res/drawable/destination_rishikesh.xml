@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="180dp"
+    android:viewportWidth="240"
+    android:viewportHeight="180">
+    
+    <!-- Sky background -->
+    <path
+        android:fillColor="#B3E5FC"
+        android:pathData="M0,0h240v120h-240z"/>
+    
+    <!-- Mountains -->
+    <path
+        android:fillColor="#78909C"
+        android:pathData="M0,50L30,30L50,40L70,25L90,45L120,20L150,40L180,25L210,40L240,30L240,120L0,120z"/>
+    
+    <!-- Snow caps -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,20L125,22L130,18L135,23L140,25L145,20L150,40L155,35L160,30L170,32L180,25L185,30L190,28L200,32L210,40L215,35L225,37L240,30L240,15L210,30L180,15L150,30L120,10L90,35L70,15L50,30L30,20L15,35L0,25L0,50L30,30z"/>
+    
+    <!-- River Ganges -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M0,120L240,120L240,180L0,180z"/>
+        
+    <!-- River ripples -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M50,140Q70,145 90,140"
+        android:strokeAlpha="0.3"
+        android:strokeColor="#FFFFFF"/>
+        
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M150,150Q170,155 190,150"
+        android:strokeAlpha="0.3"
+        android:strokeColor="#FFFFFF"/>
+    
+    <!-- Laxman Jhula suspension bridge -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M40,110L60,110L60,115L40,115z"/>
+    
+    <path
+        android:fillColor="#795548"
+        android:pathData="M180,110L200,110L200,115L180,115z"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M50,110L190,110"
+        android:strokeColor="#000000"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M50,100L190,100"
+        android:strokeColor="#000000"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M50,100L50,110"
+        android:strokeColor="#000000"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M190,100L190,110"
+        android:strokeColor="#000000"/>
+    
+    <!-- Vertical supports -->
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M70,100L70,110"
+        android:strokeColor="#000000"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M90,100L90,110"
+        android:strokeColor="#000000"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M110,100L110,110"
+        android:strokeColor="#000000"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M130,100L130,110"
+        android:strokeColor="#000000"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M150,100L150,110"
+        android:strokeColor="#000000"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M170,100L170,110"
+        android:strokeColor="#000000"/>
+    
+    <!-- Temple on left bank -->
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M10,90L35,90L35,120L10,120z"/>
+    
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M5,90L40,90L22.5,75z"/>
+    
+    <!-- Temple on right bank -->
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M205,90L230,90L230,120L205,120z"/>
+    
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M200,90L235,90L217.5,75z"/>
+    
+    <!-- Yoga practitioner silhouette -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M120,140L125,145L122,145L122,150L118,150L118,145L115,145z"/>
+    
+    <!-- River rafting raft -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M80,150L100,150L95,160L85,160z"/>
+    
+    <!-- Person on raft -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M88,150L92,150L92,155L88,155z"/>
+</vector> 

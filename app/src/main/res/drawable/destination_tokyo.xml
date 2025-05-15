@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="160dp"
+    android:viewportWidth="240"
+    android:viewportHeight="160">
+
+    <!-- Background with gradient sky -->
+    <path
+        android:fillColor="#B3E5FC"
+        android:pathData="M0,0h240v160h-240z" />
+    
+    <path
+        android:fillColor="#81D4FA"
+        android:pathData="M0,80h240v80h-240z" />
+
+    <!-- Mount Fuji -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,160L90,70L120,100L150,70L240,160z" />
+    <path
+        android:fillColor="#EFEBE9"
+        android:pathData="M90,70L120,100L150,70L120,90z" />
+
+    <!-- Tokyo Tower -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M180,160L190,160L188,100L182,100z" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M178,130L192,130L190,120L180,120z" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M180,110L190,110L189,90L181,90z" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M183,85L187,85L186,75L184,75z" />
+    
+    <!-- City Buildings -->
+    <path
+        android:fillColor="#616161"
+        android:pathData="M20,160L40,160L40,120L20,120z" />
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M45,160L60,160L60,110L45,110z" />
+    <path
+        android:fillColor="#424242"
+        android:pathData="M65,160L85,160L85,130L65,130z" />
+    <path
+        android:fillColor="#757575"
+        android:pathData="M90,160L105,160L105,125L90,125z" />
+    <path
+        android:fillColor="#757575"
+        android:pathData="M110,160L140,160L140,140L110,140z" />
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M145,160L165,160L165,135L145,135z" />
+    <path
+        android:fillColor="#424242"
+        android:pathData="M200,160L220,160L220,130L200,130z" />
+    
+    <!-- Windows -->
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M25,130h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M30,130h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M25,140h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M30,140h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M50,120h5v5h-5z" />
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M50,130h5v5h-5z" />
+    
+    <!-- Sun -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M200,40m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0" />
+</vector> 
